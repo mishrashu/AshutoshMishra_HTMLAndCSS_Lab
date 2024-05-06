@@ -1,7 +1,7 @@
 # AshutoshMishra_HTMLAndCSS_Lab
 AshutoshMishra_HTMLAndCSS_Lab
 
-# HTML_CSS_LAB
+# HTML&CSS-LAB
 
 ```
 1.	Create a Navigation menu bar with dropdown list
